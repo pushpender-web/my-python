@@ -1,1 +1,3 @@
-
+stri="read"
+str="this"
+print(stri+" "+str)
